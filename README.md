@@ -8,9 +8,9 @@ I've been studying Front-End for 2 years, I'm currently delving into React and s
 
 * 🌍  I'm based in Jundiaí/SP.
 * ✉️  You can contact me at [lllmatiusso@gmail.com](mailto:lllmatiusso@gmail.com)
-* 🚀  I'm currently available to work.
+* 🚀  I'm currently working at Sync LTDA.
 * 🧠  I'm learning Node.JS
-* ⚡  In addition to being a developer, I am a user-centered UX/UI Designer, and also a tattoo artist.
+* ⚡  In addition to being a developer and a user-centered UX/UI Designer.
 
 ### Skills
 

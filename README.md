@@ -4,12 +4,12 @@ Hi 👋 My name is Leonardo
 Software Engineer and UX/UI Designer
 -------------------------------------
 
-I've been studying Front-End for 2 years, I'm currently delving into React and studying Node.js and express, and then studying SQL, my ambition is to be a Full Stack developer, and I'm on my way to that.
+I've been studying Front-End for 2 years, I'm currently delving into React, Next and Vite and studying React Native.
 
 * 🌍  I'm based in Jundiaí/SP.
 * ✉️  You can contact me at [lllmatiusso@gmail.com](mailto:lllmatiusso@gmail.com)
-* 🚀  I'm currently working at Sync LTDA.
-* 🧠  I'm learning Node.JS
+* 🚀  I'm currently working at MKS Sistemas.
+* 🧠  I'm learning React Native.
 * ⚡  In addition to being a developer and a user-centered UX/UI Designer.
 
 ### Skills

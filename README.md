@@ -2,15 +2,20 @@ Hi 👋 My name is Leonardo
 =========================
 
 Software Engineer and UX/UI Designer
+
 -------------------------------------
 
-I've been studying Front-End for 2 years, I'm currently delving into React, Next and Vite and studying React Native.
+[Portfolio](https://www.leomatiusso.xyz/en)
 
-* 🌍  I'm based in Jundiaí/SP.
+-------------------------------------
+
+Front-End Developer | React | Next.js | Python | Machine Learning Enthusiast
+
+I have 3 years of experience in front-end development, specializing in React and Next.js. I’ve built numerous applications and large-scale systems throughout my career. Currently, I’m pursuing a degree in Statistics and expanding my skill set by studying Python and Machine Learning.
+
+
 * ✉️  You can contact me at [lllmatiusso@gmail.com](mailto:lllmatiusso@gmail.com)
-* 🚀  I'm currently working at MKS Sistemas.
-* 🧠  I'm learning React Native.
-* ⚡  In addition to being a developer and a user-centered UX/UI Designer.
+* 🚀  I'm currently working at Starsoft.
 
 ### Skills
 
